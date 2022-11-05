@@ -4,6 +4,7 @@ import HomeView from '../views/HomeView.vue'
 import MapView from "@/views/MapView";
 import TestView from "@/views/TestView";
 import ResourcesView from "@/views/ResourcesView";
+import GamesView from "@/views/GamesView";
 
 Vue.use(VueRouter)
 
@@ -29,9 +30,14 @@ const routes = [
     component: TestView
   },
   {
-      path: '/resources',
-      name: 'resources',
-      component: ResourcesView
+    path: '/resources',
+    name: 'resources',
+    component: ResourcesView
+  },
+  {
+    path: '/games',
+    name: 'games',
+    component: GamesView
   }
 ]
 

@@ -13,7 +13,7 @@
               max-width="344"
           >
             <v-img
-                src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Books_HD_%288314929977%29.jpg/800px-Books_HD_%288314929977%29.jpg"
                 height="200px"
             ></v-img>
 
@@ -36,7 +36,7 @@
               max-width="344"
           >
             <v-img
-                src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Books_HD_%288314929977%29.jpg/800px-Books_HD_%288314929977%29.jpg"
                 height="200px"
             ></v-img>
 
@@ -59,7 +59,7 @@
               max-width="344"
           >
             <v-img
-                src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Books_HD_%288314929977%29.jpg/800px-Books_HD_%288314929977%29.jpg"
                 height="200px"
             ></v-img>
 

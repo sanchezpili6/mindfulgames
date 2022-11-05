@@ -1,12 +1,21 @@
 <template>
   <div id="app">
-    <nav style="justify-content: space-around">
-      <router-link to="/">Inicio</router-link> |
-      <router-link to="/map">Mapa</router-link> |
-      <router-link to="/games">Juegos</router-link> |
-      <router-link to="/resources">Recursos</router-link> |
-      <router-link to="/test">Diagnóstico</router-link> |
-      <router-link to="/about">Sobre nosotros</router-link> |
+    <nav style="justify-content: space-between">
+      <v-row>
+        <v-spacer></v-spacer>
+        <v-btn to="/">Inicio</v-btn>
+        <v-spacer></v-spacer>
+        <v-btn to="/map">Mapa</v-btn>
+        <v-spacer></v-spacer>
+        <v-btn to="/games">Juegos</v-btn>
+        <v-spacer></v-spacer>
+        <v-btn to="/resources">Recursos</v-btn>
+        <v-spacer></v-spacer>
+        <v-btn to="/test">Diagnóstico</v-btn>
+        <v-spacer></v-spacer>
+        <v-btn target="_blank" href="https://sites.google.com/view/mindfulgames-company/inicio?authuser=0">Sobre nosotros</v-btn> |
+        <v-spacer></v-spacer>
+      </v-row>
     </nav>
     <router-view/>
   </div>
