@@ -49,7 +49,7 @@
     <v-overlay>
       <v-card
           class="mx-auto"
-          max-width="344"
+          max-width="375"
       >
         <v-img
             src="https://scontent-qro1-1.xx.fbcdn.net/v/t39.30808-6/314093849_107103272211881_1774120908107051464_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=r3q-0TyfSLwAX-Rf6Lm&tn=TZ6RaYmvzMuEDaTc&_nc_ht=scontent-qro1-1.xx&oh=00_AfBHvcsAoMlUGKLAFQ9reun2zO0NrggTKY9hVBsSQsSGSg&oe=636BD356"
