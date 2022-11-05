@@ -56,7 +56,7 @@
             height="200px"
         ></v-img>
         <v-card-title>
-          Si te gustaron los juegos, visita a Kilter
+          Si te gustaron los juegos, descarga Kilter en tu celular
         </v-card-title>
         <v-card-actions>
           <v-spacer></v-spacer>

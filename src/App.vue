@@ -11,6 +11,8 @@
         <v-spacer></v-spacer>
         <v-btn to="/resources">Recursos</v-btn>
         <v-spacer></v-spacer>
+        <v-btn to="/directory">Directorio</v-btn>
+        <v-spacer></v-spacer>
         <v-btn to="/test">Diagnóstico</v-btn>
         <v-spacer></v-spacer>
         <v-btn target="_blank" href="https://sites.google.com/view/mindfulgames-company/inicio?authuser=0">Sobre nosotros</v-btn> |

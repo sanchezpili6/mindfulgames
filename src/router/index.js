@@ -5,6 +5,7 @@ import MapView from "@/views/MapView";
 import TestView from "@/views/TestView";
 import ResourcesView from "@/views/ResourcesView";
 import GamesView from "@/views/GamesView";
+import DirectoryView from "@/views/DirectoryView";
 
 Vue.use(VueRouter)
 
@@ -38,6 +39,11 @@ const routes = [
     path: '/games',
     name: 'games',
     component: GamesView
+  },
+  {
+    path: '/directory',
+    name: 'directory',
+    component: DirectoryView
   }
 ]
 
